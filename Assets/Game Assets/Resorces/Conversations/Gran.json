@@ -1,0 +1,42 @@
+[
+	{
+		"title": "Gran",
+		"tags": "",
+		"body": "Gran: hey     \n<<if $talked_to_gran is false>>    \n    \n    You: why?\n    <<set $talked_to_gran to true>>\n    \n<<elseif $talked_to_gran is true>>\n    Gran: Why are you still here\n<<endif>>\n\n\n<<if not visited(\"Gran.Watch\")>>\n[[Seen any monsters?|Gran.Monsters]]\n<<endif>>\n[[See you later.|Gran.Exit]]",
+		"position": {
+			"x": 412,
+			"y": 172
+		},
+		"colorID": 0
+	},
+	{
+		"title": "Gran.Exit",
+		"tags": "",
+		"body": "OldWoman: Bye.",
+		"position": {
+			"x": 152,
+			"y": 322
+		},
+		"colorID": 6
+	},
+	{
+		"title": "EnterLevel",
+		"tags": "",
+		"body": "",
+		"position": {
+			"x": 897,
+			"y": 118
+		},
+		"colorID": 0
+	},
+	{
+		"title": "Gran.Monsters",
+		"tags": "",
+		"body": "OldWoman: Nope. Have You?",
+		"position": {
+			"x": 147,
+			"y": 100
+		},
+		"colorID": 0
+	}
+]

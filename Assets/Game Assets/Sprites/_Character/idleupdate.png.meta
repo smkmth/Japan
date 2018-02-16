@@ -1,0 +1,1422 @@
+fileFormatVersion: 2
+guid: fbd0ab083fc235b40ac7fe6282460035
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: idleupdate_0
+    21300002: idleupdate_1
+    21300004: idleupdate_2
+    21300006: idleupdate_3
+    21300008: idleupdate_4
+    21300010: idleupdate_5
+    21300012: idleupdate_6
+    21300014: idleupdate_7
+    21300016: idleupdate_8
+    21300018: idleupdate_9
+    21300020: idleupdate_10
+    21300022: idleupdate_11
+    21300024: idleupdate_12
+    21300026: idleupdate_13
+    21300028: idleupdate_14
+    21300030: idleupdate_15
+    21300032: idleupdate_16
+    21300034: idleupdate_17
+    21300036: idleupdate_18
+    21300038: idleupdate_19
+    21300040: idleupdate_20
+    21300042: idleupdate_21
+    21300044: idleupdate_22
+    21300046: idleupdate_23
+    21300048: idleupdate_24
+    21300050: idleupdate_25
+    21300052: idleupdate_26
+    21300054: idleupdate_27
+    21300056: idleupdate_28
+    21300058: idleupdate_29
+    21300060: idleupdate_30
+    21300062: idleupdate_31
+    21300064: idleupdate_32
+    21300066: idleupdate_33
+    21300068: idleupdate_34
+    21300070: idleupdate_35
+    21300072: idleupdate_36
+    21300074: idleupdate_37
+    21300076: idleupdate_38
+    21300078: idleupdate_39
+    21300080: idleupdate_40
+    21300082: idleupdate_41
+    21300084: idleupdate_42
+    21300086: idleupdate_43
+    21300088: idleupdate_44
+    21300090: idleupdate_45
+    21300092: idleupdate_46
+    21300094: idleupdate_47
+    21300096: idleupdate_48
+    21300098: idleupdate_49
+    21300100: idleupdate_50
+    21300102: idleupdate_51
+    21300104: idleupdate_52
+    21300106: idleupdate_53
+    21300108: idleupdate_54
+    21300110: idleupdate_55
+    21300112: idleupdate_56
+    21300114: idleupdate_57
+    21300116: idleupdate_58
+    21300118: idleupdate_59
+    21300120: idleupdate_60
+    21300122: idleupdate_61
+    21300124: idleupdate_62
+    21300126: idleupdate_63
+    21300128: idleupdate_64
+    21300130: idleupdate_65
+    21300132: idleupdate_66
+    21300134: idleupdate_67
+    21300136: idleupdate_68
+    21300138: idleupdate_69
+    21300140: idleupdate_70
+    21300142: idleupdate_71
+    21300144: idleupdate_72
+    21300146: idleupdate_73
+    21300148: idleupdate_74
+    21300150: idleupdate_75
+    21300152: idleupdate_76
+    21300154: idleupdate_77
+    21300156: idleupdate_78
+    21300158: idleupdate_79
+    21300160: idleupdate_80
+    21300162: idleupdate_81
+    21300164: idleupdate_82
+    21300166: idleupdate_83
+    21300168: idleupdate_84
+    21300170: idleupdate_85
+    21300172: idleupdate_86
+    21300174: idleupdate_87
+    21300176: idleupdate_88
+    21300178: idleupdate_89
+    21300180: idleupdate_90
+    21300182: idleupdate_91
+    21300184: idleupdate_92
+    21300186: idleupdate_93
+    21300188: idleupdate_94
+    21300190: idleupdate_95
+    21300192: idleupdate_96
+    21300194: idleupdate_97
+    21300196: idleupdate_98
+    21300198: idleupdate_99
+    21300200: idleupdate_100
+    21300202: idleupdate_101
+    21300204: idleupdate_102
+    21300206: idleupdate_103
+    21300208: idleupdate_104
+    21300210: idleupdate_105
+    21300212: idleupdate_106
+    21300214: idleupdate_107
+    21300216: idleupdate_108
+    21300218: idleupdate_109
+    21300220: idleupdate_110
+    21300222: idleupdate_111
+    21300224: idleupdate_112
+    21300226: idleupdate_113
+    21300228: idleupdate_114
+    21300230: idleupdate_115
+    21300232: idleupdate_116
+    21300234: idleupdate_117
+    21300236: idleupdate_118
+    21300238: idleupdate_119
+    21300240: idleupdate_120
+    21300242: idleupdate_121
+    21300244: idleupdate_122
+    21300246: idleupdate_123
+    21300248: idleupdate_124
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: idleupdate_0
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 1405
+        width: 130
+        height: 350
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idleupdate_1
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 1405
+        width: 130
+        height: 350
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idleupdate_2
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 1405
+        width: 130
+        height: 350
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idleupdate_3
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 1405
+        width: 130
+        height: 350
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idleupdate_4
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 1402
+        width: 130
+        height: 350
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idleupdate_5
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 1405
+        width: 130
+        height: 350
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idleupdate_6
+      rect:
+        serializedVersion: 2
+        x: 1235
+        y: 1405
+        width: 130
+        height: 350
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idleupdate_7
+      rect:
+        serializedVersion: 2
+        x: 1614
+        y: 1405
+        width: 130
+        height: 350
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idleupdate_8
+      rect:
+        serializedVersion: 2
+        x: 1825
+        y: 1413
+        width: 131
+        height: 342
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idleupdate_9
+      rect:
+        serializedVersion: 2
+        x: 2014
+        y: 1405
+        width: 130
+        height: 350
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idleupdate_10
+      rect:
+        serializedVersion: 2
+        x: 2201
+        y: 1405
+        width: 130
+        height: 350
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idleupdate_11
+      rect:
+        serializedVersion: 2
+        x: 2390
+        y: 1403
+        width: 130
+        height: 350
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idleupdate_12
+      rect:
+        serializedVersion: 2
+        x: 2596
+        y: 1405
+        width: 130
+        height: 350
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idleupdate_13
+      rect:
+        serializedVersion: 2
+        x: 2794
+        y: 1405
+        width: 130
+        height: 350
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idleupdate_14
+      rect:
+        serializedVersion: 2
+        x: 2985
+        y: 1405
+        width: 130
+        height: 350
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idleupdate_15
+      rect:
+        serializedVersion: 2
+        x: 3172
+        y: 1405
+        width: 130
+        height: 350
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idleupdate_16
+      rect:
+        serializedVersion: 2
+        x: 3379
+        y: 1405
+        width: 130
+        height: 350
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idleupdate_17
+      rect:
+        serializedVersion: 2
+        x: 3550
+        y: 1405
+        width: 130
+        height: 350
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idleupdate_18
+      rect:
+        serializedVersion: 2
+        x: 3750
+        y: 1405
+        width: 130
+        height: 350
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idleupdate_19
+      rect:
+        serializedVersion: 2
+        x: 3950
+        y: 1405
+        width: 130
+        height: 350
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idleupdate_20
+      rect:
+        serializedVersion: 2
+        x: 4150
+        y: 1405
+        width: 130
+        height: 350
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idleupdate_21
+      rect:
+        serializedVersion: 2
+        x: 4350
+        y: 1405
+        width: 130
+        height: 350
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idleupdate_22
+      rect:
+        serializedVersion: 2
+        x: 4550
+        y: 1405
+        width: 130
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idleupdate_23
+      rect:
+        serializedVersion: 2
+        x: 4735
+        y: 1405
+        width: 130
+        height: 350
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idleupdate_24
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 1053
+        width: 130
+        height: 350
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idleupdate_25
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 1058
+        width: 130
+        height: 350
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idleupdate_26
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 1055
+        width: 130
+        height: 350
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idleupdate_27
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 1055
+        width: 130
+        height: 350
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idleupdate_28
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 1057
+        width: 130
+        height: 350
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idleupdate_29
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 1066
+        width: 130
+        height: 350
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idleupdate_30
+      rect:
+        serializedVersion: 2
+        x: 1235
+        y: 1064
+        width: 130
+        height: 350
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idleupdate_31
+      rect:
+        serializedVersion: 2
+        x: 1610
+        y: 1062
+        width: 130
+        height: 350
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idleupdate_32
+      rect:
+        serializedVersion: 2
+        x: 1814
+        y: 1066
+        width: 130
+        height: 350
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idleupdate_33
+      rect:
+        serializedVersion: 2
+        x: 2008
+        y: 1066
+        width: 130
+        height: 350
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idleupdate_34
+      rect:
+        serializedVersion: 2
+        x: 2208
+        y: 1059
+        width: 130
+        height: 350
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idleupdate_35
+      rect:
+        serializedVersion: 2
+        x: 2401
+        y: 1064
+        width: 130
+        height: 350
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idleupdate_36
+      rect:
+        serializedVersion: 2
+        x: 2583
+        y: 1064
+        width: 130
+        height: 350
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idleupdate_37
+      rect:
+        serializedVersion: 2
+        x: 2792
+        y: 1066
+        width: 130
+        height: 350
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idleupdate_38
+      rect:
+        serializedVersion: 2
+        x: 2979
+        y: 1055
+        width: 130
+        height: 350
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idleupdate_39
+      rect:
+        serializedVersion: 2
+        x: 3174
+        y: 1059
+        width: 130
+        height: 350
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idleupdate_40
+      rect:
+        serializedVersion: 2
+        x: 3377
+        y: 1057
+        width: 130
+        height: 350
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idleupdate_41
+      rect:
+        serializedVersion: 2
+        x: 3572
+        y: 1062
+        width: 130
+        height: 350
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idleupdate_42
+      rect:
+        serializedVersion: 2
+        x: 3761
+        y: 1051
+        width: 130
+        height: 350
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idleupdate_43
+      rect:
+        serializedVersion: 2
+        x: 3950
+        y: 1055
+        width: 130
+        height: 350
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idleupdate_44
+      rect:
+        serializedVersion: 2
+        x: 4150
+        y: 1055
+        width: 130
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idleupdate_45
+      rect:
+        serializedVersion: 2
+        x: 4350
+        y: 1055
+        width: 130
+        height: 350
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idleupdate_46
+      rect:
+        serializedVersion: 2
+        x: 4541
+        y: 1055
+        width: 130
+        height: 350
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idleupdate_47
+      rect:
+        serializedVersion: 2
+        x: 4737
+        y: 1055
+        width: 130
+        height: 350
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idleupdate_48
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 707
+        width: 130
+        height: 350
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idleupdate_49
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 712
+        width: 130
+        height: 350
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idleupdate_50
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 711
+        width: 130
+        height: 350
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idleupdate_51
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 702
+        width: 130
+        height: 350
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idleupdate_52
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 708
+        width: 130
+        height: 350
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idleupdate_53
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 705
+        width: 130
+        height: 350
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idleupdate_54
+      rect:
+        serializedVersion: 2
+        x: 1238
+        y: 711
+        width: 130
+        height: 350
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idleupdate_55
+      rect:
+        serializedVersion: 2
+        x: 1431
+        y: 703
+        width: 130
+        height: 350
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idleupdate_56
+      rect:
+        serializedVersion: 2
+        x: 1619
+        y: 709
+        width: 130
+        height: 350
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idleupdate_57
+      rect:
+        serializedVersion: 2
+        x: 1813
+        y: 709
+        width: 130
+        height: 350
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idleupdate_58
+      rect:
+        serializedVersion: 2
+        x: 2019
+        y: 709
+        width: 130
+        height: 350
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idleupdate_59
+      rect:
+        serializedVersion: 2
+        x: 2206
+        y: 707
+        width: 130
+        height: 350
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idleupdate_60
+      rect:
+        serializedVersion: 2
+        x: 2389
+        y: 703
+        width: 130
+        height: 350
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idleupdate_61
+      rect:
+        serializedVersion: 2
+        x: 2788
+        y: 712
+        width: 130
+        height: 350
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idleupdate_62
+      rect:
+        serializedVersion: 2
+        x: 2988
+        y: 714
+        width: 130
+        height: 350
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idleupdate_63
+      rect:
+        serializedVersion: 2
+        x: 3183
+        y: 714
+        width: 130
+        height: 350
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idleupdate_64
+      rect:
+        serializedVersion: 2
+        x: 3368
+        y: 714
+        width: 130
+        height: 350
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idleupdate_65
+      rect:
+        serializedVersion: 2
+        x: 3572
+        y: 705
+        width: 130
+        height: 350
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idleupdate_66
+      rect:
+        serializedVersion: 2
+        x: 3754
+        y: 709
+        width: 130
+        height: 350
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idleupdate_67
+      rect:
+        serializedVersion: 2
+        x: 3954
+        y: 707
+        width: 130
+        height: 350
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idleupdate_68
+      rect:
+        serializedVersion: 2
+        x: 4150
+        y: 705
+        width: 130
+        height: 350
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idleupdate_69
+      rect:
+        serializedVersion: 2
+        x: 4350
+        y: 705
+        width: 130
+        height: 350
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idleupdate_70
+      rect:
+        serializedVersion: 2
+        x: 4550
+        y: 705
+        width: 130
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idleupdate_71
+      rect:
+        serializedVersion: 2
+        x: 4750
+        y: 705
+        width: 130
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idleupdate_72
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 355
+        width: 130
+        height: 350
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idleupdate_73
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 358
+        width: 130
+        height: 350
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idleupdate_74
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 361
+        width: 130
+        height: 350
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idleupdate_75
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 355
+        width: 130
+        height: 350
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idleupdate_76
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 358
+        width: 130
+        height: 350
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idleupdate_77
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 366
+        width: 130
+        height: 350
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idleupdate_78
+      rect:
+        serializedVersion: 2
+        x: 1233
+        y: 355
+        width: 130
+        height: 350
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idleupdate_79
+      rect:
+        serializedVersion: 2
+        x: 1630
+        y: 357
+        width: 130
+        height: 350
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idleupdate_80
+      rect:
+        serializedVersion: 2
+        x: 1823
+        y: 357
+        width: 130
+        height: 350
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idleupdate_81
+      rect:
+        serializedVersion: 2
+        x: 2014
+        y: 357
+        width: 130
+        height: 350
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idleupdate_82
+      rect:
+        serializedVersion: 2
+        x: 2223
+        y: 364
+        width: 130
+        height: 350
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idleupdate_83
+      rect:
+        serializedVersion: 2
+        x: 2399
+        y: 357
+        width: 130
+        height: 350
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idleupdate_84
+      rect:
+        serializedVersion: 2
+        x: 2599
+        y: 355
+        width: 130
+        height: 350
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idleupdate_85
+      rect:
+        serializedVersion: 2
+        x: 2790
+        y: 355
+        width: 130
+        height: 350
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idleupdate_86
+      rect:
+        serializedVersion: 2
+        x: 2981
+        y: 355
+        width: 130
+        height: 350
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idleupdate_87
+      rect:
+        serializedVersion: 2
+        x: 3170
+        y: 355
+        width: 130
+        height: 350
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idleupdate_88
+      rect:
+        serializedVersion: 2
+        x: 3370
+        y: 357
+        width: 130
+        height: 350
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idleupdate_89
+      rect:
+        serializedVersion: 2
+        x: 3568
+        y: 351
+        width: 130
+        height: 350
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idleupdate_90
+      rect:
+        serializedVersion: 2
+        x: 3759
+        y: 355
+        width: 130
+        height: 350
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idleupdate_91
+      rect:
+        serializedVersion: 2
+        x: 3950
+        y: 355
+        width: 130
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idleupdate_92
+      rect:
+        serializedVersion: 2
+        x: 4150
+        y: 355
+        width: 130
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idleupdate_93
+      rect:
+        serializedVersion: 2
+        x: 4348
+        y: 357
+        width: 130
+        height: 350
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idleupdate_94
+      rect:
+        serializedVersion: 2
+        x: 4537
+        y: 357
+        width: 130
+        height: 350
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idleupdate_95
+      rect:
+        serializedVersion: 2
+        x: 4743
+        y: 355
+        width: 130
+        height: 350
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idleupdate_96
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 12
+        width: 130
+        height: 350
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idleupdate_97
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 8
+        width: 130
+        height: 350
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idleupdate_98
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 8
+        width: 130
+        height: 350
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idleupdate_99
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 5
+        width: 130
+        height: 350
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idleupdate_100
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 5
+        width: 130
+        height: 350
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idleupdate_101
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 2
+        width: 130
+        height: 350
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idleupdate_102
+      rect:
+        serializedVersion: 2
+        x: 1238
+        y: 0
+        width: 130
+        height: 350
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idleupdate_103
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 0
+        width: 130
+        height: 350
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idleupdate_104
+      rect:
+        serializedVersion: 2
+        x: 1627
+        y: 0
+        width: 130
+        height: 350
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idleupdate_105
+      rect:
+        serializedVersion: 2
+        x: 1804
+        y: 5
+        width: 130
+        height: 350
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idleupdate_106
+      rect:
+        serializedVersion: 2
+        x: 2012
+        y: 0
+        width: 130
+        height: 350
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idleupdate_107
+      rect:
+        serializedVersion: 2
+        x: 2204
+        y: 0
+        width: 130
+        height: 350
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idleupdate_108
+      rect:
+        serializedVersion: 2
+        x: 2402
+        y: 5
+        width: 130
+        height: 350
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idleupdate_109
+      rect:
+        serializedVersion: 2
+        x: 2589
+        y: 0
+        width: 130
+        height: 350
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idleupdate_110
+      rect:
+        serializedVersion: 2
+        x: 2786
+        y: 9
+        width: 130
+        height: 350
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idleupdate_111
+      rect:
+        serializedVersion: 2
+        x: 2984
+        y: 1
+        width: 130
+        height: 350
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idleupdate_112
+      rect:
+        serializedVersion: 2
+        x: 3182
+        y: 0
+        width: 130
+        height: 350
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idleupdate_113
+      rect:
+        serializedVersion: 2
+        x: 3375
+        y: 1
+        width: 130
+        height: 350
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idleupdate_114
+      rect:
+        serializedVersion: 2
+        x: 3573
+        y: 1
+        width: 130
+        height: 350
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idleupdate_115
+      rect:
+        serializedVersion: 2
+        x: 3764
+        y: 3
+        width: 130
+        height: 350
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idleupdate_116
+      rect:
+        serializedVersion: 2
+        x: 3962
+        y: 1
+        width: 130
+        height: 350
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idleupdate_117
+      rect:
+        serializedVersion: 2
+        x: 4146
+        y: 1
+        width: 130
+        height: 350
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idleupdate_118
+      rect:
+        serializedVersion: 2
+        x: 4344
+        y: 1
+        width: 130
+        height: 350
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idleupdate_119
+      rect:
+        serializedVersion: 2
+        x: 4535
+        y: 3
+        width: 130
+        height: 350
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idleupdate_120
+      rect:
+        serializedVersion: 2
+        x: 4722
+        y: 2
+        width: 157
+        height: 354
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idleupdate_121
+      rect:
+        serializedVersion: 2
+        x: 1423
+        y: 371
+        width: 140
+        height: 327
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idleupdate_122
+      rect:
+        serializedVersion: 2
+        x: 2574
+        y: 721
+        width: 163
+        height: 331
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idleupdate_123
+      rect:
+        serializedVersion: 2
+        x: 1423
+        y: 1077
+        width: 140
+        height: 336
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idleupdate_124
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 1415
+        width: 137
+        height: 340
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

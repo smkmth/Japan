@@ -1,0 +1,190 @@
+fileFormatVersion: 2
+guid: 997e81e48e9deba4b9a9d5fa01c2514c
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: firstdraftimport3_0
+    21300002: firstdraftimport3_1
+    21300004: firstdraftimport3_2
+    21300006: firstdraftimport3_3
+    21300008: firstdraftimport3_4
+    21300010: firstdraftimport3_5
+    21300012: firstdraftimport3_6
+    21300014: firstdraftimport3_7
+    21300016: firstdraftimport3_8
+    21300018: firstdraftimport3_9
+    21300020: firstdraftimport3_10
+    21300022: firstdraftimport3_11
+    21300024: firstdraftimport3_12
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: firstdraftimport3_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7
+        width: 157
+        height: 290
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: firstdraftimport3_1
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 0
+        width: 141
+        height: 278
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: firstdraftimport3_2
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 0
+        width: 165
+        height: 292
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: firstdraftimport3_3
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 1
+        width: 143
+        height: 295
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: firstdraftimport3_4
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 0
+        width: 122
+        height: 296
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: firstdraftimport3_5
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 0
+        width: 108
+        height: 297
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: firstdraftimport3_6
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 0
+        width: 136
+        height: 297
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: firstdraftimport3_7
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 0
+        width: 138
+        height: 297
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: firstdraftimport3_8
+      rect:
+        serializedVersion: 2
+        x: 1225
+        y: 0
+        width: 143
+        height: 290
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: firstdraftimport3_9
+      rect:
+        serializedVersion: 2
+        x: 1375
+        y: 3
+        width: 160
+        height: 294
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: firstdraftimport3_10
+      rect:
+        serializedVersion: 2
+        x: 1559
+        y: 8
+        width: 136
+        height: 273
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: firstdraftimport3_11
+      rect:
+        serializedVersion: 2
+        x: 1706
+        y: 21
+        width: 120
+        height: 276
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: firstdraftimport3_12
+      rect:
+        serializedVersion: 2
+        x: 1858
+        y: 4
+        width: 125
+        height: 288
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

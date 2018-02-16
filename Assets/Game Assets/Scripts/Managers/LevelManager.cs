@@ -1,12 +1,15 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
-public class AttackTrigger : MonoBehaviour {
+
+public class LevelManager : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
-		
+
+		SceneManager.LoadScene ("Outside");
 	}
 	
 	// Update is called once per frame

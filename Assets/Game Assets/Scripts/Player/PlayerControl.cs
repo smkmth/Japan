@@ -21,7 +21,7 @@ public class PlayerControl : MonoBehaviour
 	//a vector which tells player how to move
 	private float movePlayerVector;
 
-	public float health;
+
 
 	public static bool facingLeft;
 
@@ -94,7 +94,7 @@ public class PlayerControl : MonoBehaviour
 		if (movePlayerVector < 0 && !facingLeft)
 		{
 			Flip();
-			health -= 1;
+
 
 		}
 		else if (movePlayerVector > 0 && facingLeft)
